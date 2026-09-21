@@ -1,4 +1,5 @@
 # Lifestyle-Behaviors
+# Lifestyle Behaviors and Health Across Age Groups
 Project Overview
 
 This study uses the NHANES 2013–2014 cycle to examine how physical activity, sleep duration, and diet quality vary across adulthood and how these health behaviors are associated with self-reported health. Six NHANES public-use components were linked using the respondent identifier (SEQN), producing an analytic sample of 5,083 U.S. adults aged 18 years and older.
